@@ -11,5 +11,5 @@ exports.getAllProducts = async (req, res) => {
     }
 };
 
-// json web token
+
 
